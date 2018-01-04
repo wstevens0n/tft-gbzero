@@ -1,0 +1,16 @@
+<theme>
+   <formatVersion>4</formatVersion>
+   <include>./../theme.xml</include>
+
+   <view name="system">
+      <image name="system" extra="true">
+         <path>./system.png</path>
+      </image>
+   </view>
+
+   <view name="system, basic, detailed, video">
+      <image name="logo">
+         <path>./logo.svg</path>
+      </image>
+   </view>
+</theme>
